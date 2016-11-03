@@ -1,0 +1,11 @@
+{
+  "name": "webpack-basics",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Jake Peyser (https://github.com/JakePeyser)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
